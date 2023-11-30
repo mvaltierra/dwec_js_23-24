@@ -1,0 +1,1 @@
+# Templete for initial projects with the last version of Jquery
